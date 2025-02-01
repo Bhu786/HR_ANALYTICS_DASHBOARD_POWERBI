@@ -1,4 +1,4 @@
 # HR_ANALYTICS_DASHBOARD_POWERBI
 
 
-![Alt text](.DASHBOARD_images.png)
+![Alt text](./DASHBOARD_images.png)
